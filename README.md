@@ -17,11 +17,13 @@ Overview:-
 6.KPI summary for overall organizational performance . 
 
 Conclusion:-
-
-            The final Excel file presents information in a structured manner, making it easy to understand product-wise, store-wise, and vendor-wise details.
+             The final Excel file presents information in a structured manner, making it easy to understand product-wise, store-wise, and vendor-wise details.
             Overall, the task demonstrates effective use of Excel for data entry, calculation, and reporting, fulfilling all the objectives of the given assignment
             in a clear and professional way.
 
+             
+
+            
 
 
 
